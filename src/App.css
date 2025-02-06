@@ -121,7 +121,7 @@ button:hover {
   color: #ececec;
   background: linear-gradient(90deg, #000000, #000000);
   transform: scale(1.05);
-  box-shadow: 0px 10px 25px rgba(255, 118, 140, 0.5);
+  box-shadow: 0px 10px 25px rgba(234, 233, 234, 0.5);
 }
 
 button:active {
@@ -137,5 +137,5 @@ button:active {
   padding: 20px;
   border-radius: 12px;
   font-size: 1.3rem;
-  box-shadow: inset 0px 0px 15px rgba(219, 40, 40, 0.15);
+  box-shadow: inset 0px 0px 15px rgba(248, 247, 247, 0.15);
 }
